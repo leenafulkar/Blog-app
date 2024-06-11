@@ -9,8 +9,8 @@ function Footer() {
     <ThemeProvider theme={theme}>
     <footer style={{ marginTop: '20px', backgroundColor: '#f5f5f5', padding: '20px 0' }}>
       <Container maxWidth="lg">
-        <Typography variant="h5" color="textPrimary">Elena !</Typography>
-        <Typography variant="body2" color="textSecondary">@copyright code with elena</Typography>
+        <Typography variant="h5" color="textPrimary">BlogBliss !</Typography>
+        <Typography variant="body2" color="textSecondary">@copyright code with BlogBliss</Typography>
       </Container>
     </footer>
   </ThemeProvider>

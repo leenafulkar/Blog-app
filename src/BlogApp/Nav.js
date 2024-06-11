@@ -12,7 +12,7 @@ function Nav() {
         <Container maxWidth="lg">
           <Toolbar>
             <Typography variant="h6" component={Link} to="/" style={{ textDecoration: 'none', color: 'inherit' }}>
-              Elena !
+            BlogBliss !
             </Typography>
             <div style={{ flexGrow: 1 }} />
             <Button color="inherit" component={Link} to="/" style={{ textDecoration: 'none' }}>Home</Button>
